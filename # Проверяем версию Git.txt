@@ -7,8 +7,8 @@ cd lab_S3M11
 git init
 
 # Настраиваем пользователя Git
-git config --global user.name "Артем Ермолин"
-git config --global user.email "dr.pomanep@YA"
+git config --global user.name "Ковтун Руслан"
+git config --global user.email "rineis@yandex.ru"
 
 # Создаем файл README и делаем первый коммит
 echo "Hello world" > README
